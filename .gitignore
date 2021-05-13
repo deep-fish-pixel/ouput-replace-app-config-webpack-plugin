@@ -4,6 +4,7 @@ package-lock.json
 
 .idea
 .vscode
+.npmrc
 *.suo
 *.ntvs*
 *.njsproj

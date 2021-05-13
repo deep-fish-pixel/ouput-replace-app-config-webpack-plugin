@@ -1,7 +1,6 @@
 /**
  * conf.json中打包日期自动替换
  */
-const fs = require('fs');
 const OuputReplaceWebpackPlugin = require('ouput-replace-webpack-plugin');
 const formatDate = require('./formatDate');
 
