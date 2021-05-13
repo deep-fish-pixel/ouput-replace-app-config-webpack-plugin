@@ -1,0 +1,28 @@
+{
+  "name": "ouput-replace-app-config-webpack-plugin",
+  "version": "1.0.0",
+  "description": "replace webpack output app conf.json content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maweimaweima/ouput-replace-app-config-webpack-plugin.git"
+  },
+  "keywords": [
+    "replace",
+    "webpack",
+    "output",
+    "file"
+  ],
+  "author": "deepFish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maweimaweima/ouput-replace-app-config-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/maweimaweima/ouput-replace-app-config-webpack-plugin#readme",
+  "dependencies": {
+    "ouput-replace-webpack-plugin": "^1.0.1"
+  }
+}
