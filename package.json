@@ -1,6 +1,6 @@
 {
   "name": "ouput-replace-app-config-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "replace webpack output app conf.json content",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maweimaweima/ouput-replace-app-config-webpack-plugin.git"
+    "url": "git+https://github.com/deep-fish-pixel/ouput-replace-app-config-webpack-plugin.git"
   },
   "keywords": [
     "replace",
@@ -19,9 +19,9 @@
   "author": "deepFish",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maweimaweima/ouput-replace-app-config-webpack-plugin/issues"
+    "url": "https://github.com/deep-fish-pixel/ouput-replace-app-config-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/maweimaweima/ouput-replace-app-config-webpack-plugin#readme",
+  "homepage": "https://github.com/deep-fish-pixel/ouput-replace-app-config-webpack-plugin#readme",
   "dependencies": {
     "ouput-replace-webpack-plugin": "^1.0.1"
   }
